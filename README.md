@@ -70,7 +70,6 @@ See the [docs/](./docs/README.md) directory for:
 - [ ] Add a voice system assistant agent (TanStack AI)
 - [ ] Enhance tutorial for integration and deploy
 - [ ] Add Resend email integration
-- [ ] Integrate with Stripe for payments
 
 ## License
 
