@@ -49,6 +49,30 @@ powershell -ExecutionPolicy Bypass -File install.ps1
 - **pnpm** (package manager)
 - Project dependencies via `pnpm install`
 
+## AI Tool
+
+### Claude Code
+
+**macOS / Linux:**
+
+```bash
+curl -fsSL https://claude.ai/install.sh | bash
+```
+
+**Windows (PowerShell as Administrator):**
+```powershell
+irm https://claude.ai/install.ps1 | iex
+```
+
+### Claude App
+
+https://claude.com/download
+
+### Codex App
+
+https://chatgpt.com/codex
+
+
 ## After setup
 
 The scripts create a `.env` file from `.env.example`. Fill in your keys:
