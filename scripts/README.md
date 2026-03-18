@@ -72,6 +72,9 @@ https://claude.com/download
 
 https://chatgpt.com/codex
 
+### Opencode
+
+https://opencode.ai/
 
 ## After setup
 
