@@ -62,15 +62,6 @@ See the [docs/](./docs/README.md) directory for:
 - [Stack](./docs/stack.md)
 - [Customization](./docs/customization.md)
 
-## Roadmap
-
-- [X] Add Clerk integration
-- [X] Add one click deploy to Vercel
-- [X] Create a simple configuration script for Mac, Linux, and Windows
-- [ ] Add a voice system assistant agent (TanStack AI)
-- [ ] Enhance tutorial for integration and deploy
-- [ ] Add Resend email integration
-
 ## License
 
 MIT
