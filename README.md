@@ -22,16 +22,6 @@ pnpm dev
 
 Visit [http://localhost:3000](http://localhost:3000).
 
-## Features
-
-- Landing page with auth-aware CTA
-- Clerk sign-in/sign-up pages with hash-based SSO routing
-- Authenticated dashboard with collapsible icon sidebar
-- Task CRUD with real-time updates via Convex
-- User settings page with Clerk profile
-- Slate OKLCH color palette (light & dark)
-- Geist Sans + Mono fonts
-
 ## Project Structure
 
 ```
